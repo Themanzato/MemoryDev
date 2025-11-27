@@ -22,13 +22,12 @@ MemoryDev
   <a href="https://github.com/user-attachments/assets/f470b3f4-8f7d-4ac6-8375-9654bdca2b10">
     <img src="https://github.com/user-attachments/assets/f470b3f4-8f7d-4ac6-8375-9654bdca2b10" width="240" alt="pantalla 6" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/user-attachments/assets/19e5fbe9-01f1-4e3a-a5f3-b3f2d60e2571">
     <img src="https://github.com/user-attachments/assets/19e5fbe9-01f1-4e3a-a5f3-b3f2d60e2571" width="240" alt="pantalla 7" />
   </a>
 </p>
+
+
 
 
 **Descripción**
