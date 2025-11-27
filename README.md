@@ -2,13 +2,35 @@
 
 MemoryDev
 
-<img width="395" height="769" alt="image" src="https://github.com/user-attachments/assets/c7aa1de2-d390-43ad-badd-bfbb54e825d0" />
-<img width="812" height="1600" alt="image" src="https://github.com/user-attachments/assets/fcd96033-fe12-4d4a-b079-4e3c51e55fbf" />
-<img width="801" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f01c3ac-b11e-4f1b-8314-2273ea7d5837" />
-<img width="805" height="1600" alt="image" src="https://github.com/user-attachments/assets/174b3245-986b-4e33-a5e7-c35581bcedd2" />
-<img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/19d48a89-3f2c-4ab2-9eda-ca5a8652a7bc" />
-<img width="803" height="1600" alt="image" src="https://github.com/user-attachments/assets/f470b3f4-8f7d-4ac6-8375-9654bdca2b10" />
-<img width="802" height="1600" alt="image" src="https://github.com/user-attachments/assets/19e5fbe9-01f1-4e3a-a5f3-b3f2d60e2571" />
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/c7aa1de2-d390-43ad-badd-bfbb54e825d0">
+    <img src="https://github.com/user-attachments/assets/c7aa1de2-d390-43ad-badd-bfbb54e825d0" width="240" alt="pantalla 1" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/fcd96033-fe12-4d4a-b079-4e3c51e55fbf">
+    <img src="https://github.com/user-attachments/assets/fcd96033-fe12-4d4a-b079-4e3c51e55fbf" width="240" alt="pantalla 2" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/6f01c3ac-b11e-4f1b-8314-2273ea7d5837">
+    <img src="https://github.com/user-attachments/assets/6f01c3ac-b11e-4f1b-8314-2273ea7d5837" width="240" alt="pantalla 3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/174b3245-986b-4e33-a5e7-c35581bcedd2">
+    <img src="https://github.com/user-attachments/assets/174b3245-986b-4e33-a5e7-c35581bcedd2" width="240" alt="pantalla 4" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/19d48a89-3f2c-4ab2-9eda-ca5a8652a7bc">
+    <img src="https://github.com/user-attachments/assets/19d48a89-3f2c-4ab2-9eda-ca5a8652a7bc" width="240" alt="pantalla 5" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/f470b3f4-8f7d-4ac6-8375-9654bdca2b10">
+    <img src="https://github.com/user-attachments/assets/f470b3f4-8f7d-4ac6-8375-9654bdca2b10" width="240" alt="pantalla 6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/19e5fbe9-01f1-4e3a-a5f3-b3f2d60e2571">
+    <img src="https://github.com/user-attachments/assets/19e5fbe9-01f1-4e3a-a5f3-b3f2d60e2571" width="240" alt="pantalla 7" />
+  </a>
+</p>
 
 
 **Descripción**
