@@ -15,9 +15,7 @@ MemoryDev
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/174b3245-986b-4e33-a5e7-c35581bcedd2">
-    <img src="https://github.com/user-attachments/assets/174b3245-986b-4e33-a5e7-c35581bcedd2" width="240" alt="pantalla 4" />
-  </a>
+  
   <a href="https://github.com/user-attachments/assets/19d48a89-3f2c-4ab2-9eda-ca5a8652a7bc">
     <img src="https://github.com/user-attachments/assets/19d48a89-3f2c-4ab2-9eda-ca5a8652a7bc" width="240" alt="pantalla 5" />
   </a>
